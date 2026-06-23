@@ -15,3 +15,11 @@ header {
 .navbar a {
     color: white !important;
 }
+
+footer {
+    background-color: #6F4E37;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
